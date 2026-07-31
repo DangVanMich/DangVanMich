@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I'm Mich 👋<br><br>I'm a Frontend Developer passionate about building interactive, performant, and scalable web applications.
+### Hi there, I'm Mich 👋<br><br>I'm a Fullstack Developer passionate about building interactive, performant, and scalable web applications.
 
 
 ## 🌐 Socials:
